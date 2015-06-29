@@ -1,7 +1,7 @@
 
 ## Cpp Practise
 
-### install:
+### Compiling
 
 * autoreconf -ivf
 * ./configure

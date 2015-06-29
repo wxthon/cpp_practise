@@ -1,8 +1,8 @@
 
-## CPP Practise
+## Cpp Practise
 
 ### install:
 
-autoreconf -ivf
-./configure
-make
+* autoreconf -ivf
+* ./configure
+* make
